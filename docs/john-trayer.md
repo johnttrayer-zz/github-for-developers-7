@@ -2,4 +2,6 @@
 
 ** Name: ** john-trayer.md
 
-THis is a test file
+** Favorite Color: ** blue
+
+This is a test file
